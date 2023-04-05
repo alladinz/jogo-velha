@@ -136,36 +136,36 @@
     function VerificarGanhador(){
 
         if(d1.innerHTML == d2.innerHTML && d2.innerHTML == d3.innerHTML && d3.innerHTML != ""){
-        alert("GANHADOR");
         audio.play();
+        alert("GANHADOR");
         }
         if(d4.innerHTML == d5.innerHTML && d5.innerHTML == d6.innerHTML && d6.innerHTML != ""){
-        alert("GANHADOR");
         audio.play();
+        alert("GANHADOR");
         }
         if(d7.innerHTML == d8.innerHTML && d8.innerHTML == d9.innerHTML && d9.innerHTML != ""){
-        alert("GANHADOR");
         audio.play();
+        alert("GANHADOR");
         }
         if(d1.innerHTML == d4.innerHTML && d4.innerHTML == d7.innerHTML && d7.innerHTML != ""){
-        alert("GANHADOR");
         audio.play();
+        alert("GANHADOR");
         }
         if(d2.innerHTML == d5.innerHTML && d5.innerHTML == d8.innerHTML && d8.innerHTML != ""){
-        alert("GANHADOR");
         audio.play();
+        alert("GANHADOR");
         }
         if(d3.innerHTML == d6.innerHTML && d6.innerHTML == d9.innerHTML && d9.innerHTML != ""){
-        alert("GANHADOR");
         audio.play();
+        alert("GANHADOR");
         }
         if(d1.innerHTML == d5.innerHTML && d5.innerHTML == d9.innerHTML && d9.innerHTML != ""){
-        alert("GANHADOR");
         audio.play();
+        alert("GANHADOR");
         }
         if(d3.innerHTML == d5.innerHTML && d5.innerHTML == d7.innerHTML && d7.innerHTML != ""){
-        alert("GANHADOR");
         audio.play();
+        alert("GANHADOR");
         }
     }
 
